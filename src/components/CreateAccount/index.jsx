@@ -105,7 +105,7 @@ class CreateAccount extends Component {
                 <RadioInputContainer>
                     <AgencyInput 
                     type='radio' name='agency' id="agencyNo" value="No"
-                    onChange={this.onChangeHandler} 
+                    onChange={this.onChangeAgency} 
                     checked={isAgency==="No"}
                     />
                     <AgencyLabel for='agencyNo'>No</AgencyLabel>
