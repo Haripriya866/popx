@@ -6,7 +6,7 @@ A visually accurate and user-friendly mobile app interface that ensures smooth n
 
 ## Demo
 
-Link: https://popx-lime.vercel.app
+Link: https://popx-steel-two.vercel.app
 
 ## Tech Stack
 
