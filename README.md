@@ -1,12 +1,42 @@
-# React + Vite
+# Title
+React JS Assignment - Mobile App Interface (PopX)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Objective
+A visually accurate and user-friendly mobile app interface that ensures smooth navigation and excellent user experience.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Link: https://popx-lime.vercel.app
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Languages:** HTML5, CSS3, JavaScript (ES6+) 
+- **Libraries & Frameworks:** ReactJS, React Router, styled-components, react-icons  
+- **Build Tool:** Vite   
+- **Version Control:** GitHub  
+- **Deployment Platform:** Vercel  
+
+## Setup Instructions
+* Initial Setup: open root folder for project in vscode: cd Mobile App Interface
+* initialize git in this folder (Netflix Clone): git init
+* Run this command without specifying a new folder name: npm create vite@latest . -- --template react
+* Install dependencies: react-icons styled-components react-router-dom@5 
+* Run the dev server: npm run dev
+
+## push the code to Git using the following commands
+* git init
+* git remote add origin https://github.com/Haripriya866/popx.git
+* git add -A
+* git commit -m "Mobile App Interface"
+* git branch -M main
+* git push -u origin main
+
+## Deployment
+Choose a Platform: Select a deployment platform like render
+
+## Resources
+## Design files
+Landing, CreateAccount, Login, AccountSettings components
+
+## Third-party packages
+react-router-dom, styled-components, react-icons
