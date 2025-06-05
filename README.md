@@ -18,9 +18,9 @@ Link: https://popx-lime.vercel.app
 
 ## Setup Instructions
 * Initial Setup: open root folder for project in vscode: cd Mobile App Interface
-* initialize git in this folder (Netflix Clone): git init
+* initialize git in this folder (Mobile App Interface): git init
 * Run this command without specifying a new folder name: npm create vite@latest . -- --template react
-* Install dependencies: react-icons styled-components react-router-dom@5 
+* Install dependencies: npm install react-icons styled-components react-router-dom@5 
 * Run the dev server: npm run dev
 
 ## push the code to Git using the following commands
@@ -32,7 +32,7 @@ Link: https://popx-lime.vercel.app
 * git push -u origin main
 
 ## Deployment
-Choose a Platform: Select a deployment platform like render
+Choose a Platform: Select a deployment platform like Vercel
 
 ## Resources
 ## Design files
