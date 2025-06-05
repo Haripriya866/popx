@@ -76,6 +76,7 @@ export const LoginButton=styled.button`
     border-radius: 0.375rem;
     margin-bottom: 0.75rem;
     cursor: pointer;
+    outline:none;
     background-color:#c2c0c4;
     color: white;
     border: none;

@@ -104,6 +104,7 @@ export const CreateAccountButton=styled.button`
     border-radius: 0.375rem;
     margin-bottom: 0.75rem;
     cursor: pointer;
+    outline:none;
     background-color:#6B21A8;
     color: white;
     border: none;

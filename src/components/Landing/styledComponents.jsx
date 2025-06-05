@@ -47,6 +47,7 @@ export const Button = styled.button`
   border-radius: 0.375rem;
   margin-bottom: 0.75rem;
   cursor: pointer;
+  outline:none;
   background-color: ${(props) => (props.$primary ? '#6B21A8' : '#C4B5FD')};
   color: ${(props) => (props.$primary ? '#ffffff' : '#000000')};
   border: none;
