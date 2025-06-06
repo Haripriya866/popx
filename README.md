@@ -36,7 +36,7 @@ Choose a Platform: Select a deployment platform like Vercel
 
 ## Resources
 ## Design files
-Landing, CreateAccount, Login, AccountSettings components
+Landing, CreateAccount, Login, AccountSettings pages
 
 ## Third-party packages
 react-router-dom, styled-components, react-icons
